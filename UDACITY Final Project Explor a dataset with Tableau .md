@@ -6,7 +6,11 @@
 
 ------------------------
 
-## [Tableau Public Link](https://public.tableau.com/profile/massimiliano.d.adamo#!/vizhome/DataVisualizationUdacityProjectDAND/Story1?publish=yes)
+## [Tableau Public Link Final Version](https://public.tableau.com/profile/massimiliano.d.adamo#!/vizhome/DAND_UDACITY_Story_Final_version/Story1)
+
+## [Tableau Public Link V_1](https://public.tableau.com/profile/massimiliano.d.adamo#!/vizhome/DAND_UDACITY_Story_V1/Story1)
+
+
 
 ## Summary: 
 
@@ -56,5 +60,5 @@ The classification charts were sometime to confusing to read, and to make it bet
 -----------------------
 ## Resources: 
 
-Udacity Data visualization in Tableau  
+Udacity Data visualization in Tableau materials 
 
